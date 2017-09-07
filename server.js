@@ -28,6 +28,7 @@ function toTitleCase(str){
 }
 
 function queryByCity(city){
+    city = city.split('_').join(' ');
     var outArr = [];
     var airports = JSON.parse(fs.readFileSync('airports.json'));
     airports.forEach(function(airport) {

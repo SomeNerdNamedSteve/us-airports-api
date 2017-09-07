@@ -18,7 +18,16 @@
     "role": "P-N"
   },
   {
-    "city": "Akron / Canton",
+    "city": "Akron",
+    "state": "OHIO",
+    "faa": "CAK",
+    "iata": "CAK",
+    "icao": "KCAK",
+    "name": "Akron-Canton Regional Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Canton",
     "state": "OHIO",
     "faa": "CAK",
     "iata": "CAK",
@@ -135,7 +144,16 @@
     "role": "P-N"
   },
   {
-    "city": "Arcata / Eureka",
+    "city": "Arcata",
+    "state": "CALIFORNIA",
+    "faa": "ACV",
+    "iata": "ACV",
+    "icao": "KACV",
+    "name": "Arcata Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Eureka",
     "state": "CALIFORNIA",
     "faa": "ACV",
     "iata": "ACV",
@@ -207,7 +225,16 @@
     "role": "P-N"
   },
   {
-    "city": "Baltimore / Glen Burnie",
+    "city": "Baltimore",
+    "state": "MARYLAND",
+    "faa": "BWI",
+    "iata": "BWI",
+    "icao": "KBWI",
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "role": "P-L"
+  },
+  {
+    "city": "Glen Burnie",
     "state": "MARYLAND",
     "faa": "BWI",
     "iata": "BWI",
@@ -243,7 +270,16 @@
     "role": "P-S"
   },
   {
-    "city": "Beaumont / Port Arthur",
+    "city": "Beaumont",
+    "state": "TEXAS",
+    "faa": "BPT",
+    "iata": "BPT",
+    "icao": "KBPT",
+    "name": "Jack Brooks Regional Airport (was Southeast Texas Regional)",
+    "role": "P-N"
+  },
+  {
+    "city": "Port Arthur",
     "state": "TEXAS",
     "faa": "BPT",
     "iata": "BPT",
@@ -333,7 +369,7 @@
     "role": "P-N"
   },
   {
-    "city": "Block Island / New Shoreham",
+    "city": "Block Island",
     "state": "RHODE ISLAND",
     "faa": "BID",
     "iata": "BID",
@@ -342,7 +378,25 @@
     "role": "P-N"
   },
   {
-    "city": "Bloomington / Normal",
+    "city": "New Shoreham",
+    "state": "RHODE ISLAND",
+    "faa": "BID",
+    "iata": "BID",
+    "icao": "KBID",
+    "name": "Block Island State Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Bloomington",
+    "state": "ILLINOIS",
+    "faa": "BMI",
+    "iata": "BMI",
+    "icao": "KBMI",
+    "name": "Central Illinois Regional Airport at Bloomington-Normal",
+    "role": "P-N"
+  },
+  {
+    "city": "Normal",
     "state": "ILLINOIS",
     "faa": "BMI",
     "iata": "BMI",
@@ -396,7 +450,25 @@
     "role": "P-N"
   },
   {
-    "city": "Bristol / Johnson City / Kingsport",
+    "city": "Bristol",
+    "state": "TENNESSEE",
+    "faa": "TRI",
+    "iata": "TRI",
+    "icao": "KTRI",
+    "name": "Tri-Cities Regional Airport (Tri-Cities Regional TN/VA)",
+    "role": "P-N"
+  },
+  {
+    "city": "Kingsport",
+    "state": "TENNESSEE",
+    "faa": "TRI",
+    "iata": "TRI",
+    "icao": "KTRI",
+    "name": "Tri-Cities Regional Airport (Tri-Cities Regional TN/VA)",
+    "role": "P-N"
+  },
+  {
+    "city": "Johnson City",
     "state": "TENNESSEE",
     "faa": "TRI",
     "iata": "TRI",
@@ -495,7 +567,16 @@
     "role": "P-S"
   },
   {
-    "city": "Champaign / Urbana",
+    "city": "Urbana",
+    "state": "ILLINOIS",
+    "faa": "CMI",
+    "iata": "CMI",
+    "icao": "KCMI",
+    "name": "University of Illinois - Willard Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Champaign",
     "state": "ILLINOIS",
     "faa": "CMI",
     "iata": "CMI",
@@ -594,7 +675,16 @@
     "role": "P-N"
   },
   {
-    "city": "Cincinnati/Covington",
+    "city": "Covington",
+    "state": "KENTUCKY",
+    "faa": "CVG",
+    "iata": "CVG",
+    "icao": "KCVG",
+    "name": "Cincinnati/Northern Kentucky International Airport",
+    "role": "P-M"
+  },
+  {
+    "city": "Cincinnati",
     "state": "KENTUCKY",
     "faa": "CVG",
     "iata": "CVG",
@@ -693,7 +783,25 @@
     "role": "P-N"
   },
   {
-    "city": "Columbus / West Point / Starkville",
+    "city": "West Point",
+    "state": "MISSISSIPPI",
+    "faa": "GTR",
+    "iata": "GTR",
+    "icao": "KGTR",
+    "name": "Golden Triangle Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Starkville",
+    "state": "MISSISSIPPI",
+    "faa": "GTR",
+    "iata": "GTR",
+    "icao": "KGTR",
+    "name": "Golden Triangle Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Columbus",
     "state": "MISSISSIPPI",
     "faa": "GTR",
     "iata": "GTR",
@@ -711,7 +819,16 @@
     "role": "P-N"
   },
   {
-    "city": "Corpus Christi / Kingsville",
+    "city": "Kingsville",
+    "state": "TEXAS",
+    "faa": "CRP",
+    "iata": "CRP",
+    "icao": "KCRP",
+    "name": "Corpus Christi International Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Corpus Christi",
     "state": "TEXAS",
     "faa": "CRP",
     "iata": "CRP",
@@ -765,7 +882,16 @@
     "role": "P-N"
   },
   {
-    "city": "Deadhorse / Prudhoe Bay",
+    "city": "Prudhoe Bay",
+    "state": "ALASKA",
+    "faa": "SCC",
+    "iata": "SCC",
+    "icao": "PASC",
+    "name": "Deadhorse Airport (Prudhoe Bay Airport)",
+    "role": "P-N"
+  },
+  {
+    "city": "Deadhorse",
     "state": "ALASKA",
     "faa": "SCC",
     "iata": "SCC",
@@ -801,7 +927,16 @@
     "role": "P-S"
   },
   {
-    "city": "Detroit / Romulus",
+    "city": "Romulus",
+    "state": "MICHIGAN",
+    "faa": "DTW",
+    "iata": "DTW",
+    "icao": "KDTW",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "role": "P-L"
+  },
+  {
+    "city": "Detroit",
     "state": "MICHIGAN",
     "faa": "DTW",
     "iata": "DTW",
@@ -900,7 +1035,16 @@
     "role": "P-N"
   },
   {
-    "city": "Elmira / Corning",
+    "city": "Corning",
+    "state": "NEW YORK",
+    "faa": "ELM",
+    "iata": "ELM",
+    "icao": "KELM",
+    "name": "Elmira/Corning Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Elmira",
     "state": "NEW YORK",
     "faa": "ELM",
     "iata": "ELM",
@@ -1017,7 +1161,25 @@
     "role": "P-N"
   },
   {
-    "city": "Fort Hood / Killeen / Temple",
+    "city": "Fort Hood",
+    "state": "TEXAS",
+    "faa": "GRK",
+    "iata": "GRK",
+    "icao": "KGRK",
+    "name": "Killeen-Fort Hood Regional Airport / Robert Gray Army Airfield",
+    "role": "P-N"
+  },
+  {
+    "city": "Temple",
+    "state": "TEXAS",
+    "faa": "GRK",
+    "iata": "GRK",
+    "icao": "KGRK",
+    "name": "Killeen-Fort Hood Regional Airport / Robert Gray Army Airfield",
+    "role": "P-N"
+  },
+  {
+    "city": "Killeen",
     "state": "TEXAS",
     "faa": "GRK",
     "iata": "GRK",
@@ -1116,7 +1278,16 @@
     "role": "P-N"
   },
   {
-    "city": "Grand Canyon / Tusayan",
+    "city": "Grand Canyon",
+    "state": "ARIZONA",
+    "faa": "GCN",
+    "iata": "GCN",
+    "icao": "KGCN",
+    "name": "Grand Canyon National Park Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Tusayan",
     "state": "ARIZONA",
     "faa": "GCN",
     "iata": "GCN",
@@ -1206,7 +1377,16 @@
     "role": "P-S"
   },
   {
-    "city": "Gulfport / Biloxi",
+    "city": "Biloxi",
+    "state": "MISSISSIPPI",
+    "faa": "GPT",
+    "iata": "GPT",
+    "icao": "KGPT",
+    "name": "Gulfport–Biloxi International Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Gulfport",
     "state": "MISSISSIPPI",
     "faa": "GPT",
     "iata": "GPT",
@@ -1251,7 +1431,16 @@
     "role": "P-N"
   },
   {
-    "city": "Hancock / Calumet",
+    "city": "Hancock",
+    "state": "MICHIGAN",
+    "faa": "CMX",
+    "iata": "CMX",
+    "icao": "KCMX",
+    "name": "Houghton County Memorial Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Calumet",
     "state": "MICHIGAN",
     "faa": "CMX",
     "iata": "CMX",
@@ -1269,7 +1458,16 @@
     "role": "P-S"
   },
   {
-    "city": "Harrisburg / Middletown",
+    "city": "Harrisburg",
+    "state": "PENNSYLVANIA",
+    "faa": "MDT",
+    "iata": "MDT",
+    "icao": "KMDT",
+    "name": "Harrisburg International Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Middletown",
     "state": "PENNSYLVANIA",
     "faa": "MDT",
     "iata": "MDT",
@@ -1287,7 +1485,16 @@
     "role": "P-M"
   },
   {
-    "city": "Hattiesburg / Laurel",
+    "city": "Hattiesburg",
+    "state": "MISSISSIPPI",
+    "faa": "PIB",
+    "iata": "PIB",
+    "icao": "KPIB",
+    "name": "Hattiesburg–Laurel Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Laurel",
     "state": "MISSISSIPPI",
     "faa": "PIB",
     "iata": "PIB",
@@ -1323,8 +1530,8 @@
     "role": "P-N"
   },
   {
-    "city": "\"Hilo",
-    "state": " Hawaii\"",
+    "city": "Hilo",
+    "state": "Hawaii",
     "faa": "HAWAII",
     "iata": "ITO",
     "icao": "ITO",
@@ -1359,8 +1566,8 @@
     "role": "P-N"
   },
   {
-    "city": "\"Honolulu",
-    "state": " Oahu\"",
+    "city": "Honolulu",
+    "state": "Oahu",
     "faa": "HAWAII",
     "iata": "HNL",
     "icao": "HNL",
@@ -1449,7 +1656,16 @@
     "role": "P-N"
   },
   {
-    "city": "Iron Mountain / Kingsford",
+    "city": "Kingsford",
+    "state": "MICHIGAN",
+    "faa": "IMT",
+    "iata": "IMT",
+    "icao": "KIMT",
+    "name": "Ford Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Iron Mountain",
     "state": "MICHIGAN",
     "faa": "IMT",
     "iata": "IMT",
@@ -1548,7 +1764,16 @@
     "role": "Kona International Airport at Keahole"
   },
   {
-    "city": "Kalamazoo / Battle Creek",
+    "city": "Battle Creek",
+    "state": "MICHIGAN",
+    "faa": "AZO",
+    "iata": "AZO",
+    "icao": "KAZO",
+    "name": "Kalamazoo/Battle Creek International Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Kalamazoo",
     "state": "MICHIGAN",
     "faa": "AZO",
     "iata": "AZO",
@@ -1575,8 +1800,8 @@
     "role": "P-M"
   },
   {
-    "city": "\"Kaunakakai",
-    "state": " Molokai\"",
+    "city": "Kaunakakai",
+    "state": "Molokai",
     "faa": "HAWAII",
     "iata": "MKK",
     "icao": "MKK",
@@ -1683,8 +1908,8 @@
     "role": "P-N"
   },
   {
-    "city": "\"Lanai City",
-    "state": " Lanai\"",
+    "city": "Lanai City",
+    "state": "Lanai",
     "faa": "HAWAII",
     "iata": "LNY",
     "icao": "LNY",
@@ -1773,8 +1998,8 @@
     "role": "P-S"
   },
   {
-    "city": "\"Lihue",
-    "state": " Kauai\"",
+    "city": "Lihue",
+    "state": "Kauai",
     "faa": "HAWAII",
     "iata": "LIH",
     "icao": "LIH",
@@ -1899,7 +2124,16 @@
     "role": "P-N"
   },
   {
-    "city": "Marquette / Gwinn",
+    "city": "Marquette",
+    "state": "MICHIGAN",
+    "faa": "SAW",
+    "iata": "MQT",
+    "icao": "KSAW",
+    "name": "Sawyer International Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Gwinn",
     "state": "MICHIGAN",
     "faa": "SAW",
     "iata": "MQT",
@@ -2277,7 +2511,16 @@
     "role": "P-L"
   },
   {
-    "city": "Orlando/Sanford",
+    "city": "Sanford",
+    "state": "FLORIDA",
+    "faa": "SFB",
+    "iata": "SFB",
+    "icao": "KSFB",
+    "name": "Orlando Sanford International Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Orlando",
     "state": "FLORIDA",
     "faa": "SFB",
     "iata": "SFB",
@@ -2430,7 +2673,16 @@
     "role": "P-N"
   },
   {
-    "city": "Pocatello / Arbon Valley",
+    "city": "Pocatello",
+    "state": "IDAHO",
+    "faa": "PIH",
+    "iata": "PIH",
+    "icao": "KPIH",
+    "name": "Pocatello Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Arbon Valley",
     "state": "IDAHO",
     "faa": "PIH",
     "iata": "PIH",
@@ -2484,7 +2736,16 @@
     "role": "P-N"
   },
   {
-    "city": "Providence / Warwick",
+    "city": "Warwick",
+    "state": "RHODE ISLAND",
+    "faa": "PVD",
+    "iata": "PVD",
+    "icao": "KPVD",
+    "name": "Theodore Francis Green State Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Providence",
     "state": "RHODE ISLAND",
     "faa": "PVD",
     "iata": "PVD",
@@ -2507,12 +2768,21 @@
     "faa": "PVU",
     "iata": "PVU",
     "icao": "KPVU",
-    "name": "\"Provo Municipal Airport (14",
-    "role": "858 enplanements in 2011)[1]\""
+    "name": "Provo Municipal Airport ",
+    "role": "P-N"
   },
   {
-    "city": "\"Pullman / Moscow",
-    "state": " Idaho\"",
+    "city": "Pullman",
+    "state": "WASHINGTON",
+    "faa": "PUW",
+    "iata": "PUW",
+    "icao": "KPUW",
+    "name": "Pullman/Moscow Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Moscow",
+    "state": "Idaho",
     "faa": "WASHINGTON",
     "iata": "PUW",
     "icao": "PUW",
@@ -2808,7 +3078,16 @@
     "role": "P-N"
   },
   {
-    "city": "Sarasota / Bradenton",
+    "city": "Sarasota",
+    "state": "FLORIDA",
+    "faa": "SRQ",
+    "iata": "SRQ",
+    "icao": "KSRQ",
+    "name": "Sarasota–Bradenton International Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Bradenton",
     "state": "FLORIDA",
     "faa": "SRQ",
     "iata": "SRQ",
@@ -2844,7 +3123,25 @@
     "role": "P-N"
   },
   {
-    "city": "Seattle / Tacoma (SeaTac)",
+    "city": "Seattle",
+    "state": "WASHINGTON",
+    "faa": "SEA",
+    "iata": "SEA",
+    "icao": "KSEA",
+    "name": "Seattle–Tacoma International Airport",
+    "role": "P-L"
+  },
+  {
+    "city": "Tacoma",
+    "state": "WASHINGTON",
+    "faa": "SEA",
+    "iata": "SEA",
+    "icao": "KSEA",
+    "name": "Seattle–Tacoma International Airport",
+    "role": "P-L"
+  },
+  {
+    "city": "SeaTac",
     "state": "WASHINGTON",
     "faa": "SEA",
     "iata": "SEA",
@@ -2952,7 +3249,16 @@
     "role": "P-N"
   },
   {
-    "city": "St. George / Beaver",
+    "city": "Beaver",
+    "state": "UTAH",
+    "faa": "SGU",
+    "iata": "SGU",
+    "icao": "KSGU",
+    "name": "St. George Regional Airport (opened 2011)",
+    "role": "P-N [nb 4]"
+  },
+  {
+    "city": "St. George",
     "state": "UTAH",
     "faa": "SGU",
     "iata": "SGU",
@@ -2979,7 +3285,16 @@
     "role": "P-N"
   },
   {
-    "city": "St. Petersburg/Clearwater",
+    "city": "St. Petersburg",
+    "state": "FLORIDA",
+    "faa": "PIE",
+    "iata": "PIE",
+    "icao": "KPIE",
+    "name": "St. Pete–Clearwater International Airport",
+    "role": "P-S"
+  },
+  {
+    "city": "Clearwater",
     "state": "FLORIDA",
     "faa": "PIE",
     "iata": "PIE",
@@ -3003,7 +3318,34 @@
     "iata": "SHD",
     "icao": "KSHD",
     "name": "Shenandoah Valley Regional Airport",
-    "role": "P-N [nb 6]"
+    "role": "P-N"
+  },
+  {
+    "city": "Staunton",
+    "state": "VIRGINIA",
+    "faa": "SHD",
+    "iata": "SHD",
+    "icao": "KSHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Harrisonburg",
+    "state": "VIRGINIA",
+    "faa": "SHD",
+    "iata": "SHD",
+    "icao": "KSHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Waynesboro",
+    "state": "VIRGINIA",
+    "faa": "SHD",
+    "iata": "SHD",
+    "icao": "KSHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "role": "P-N"
   },
   {
     "city": "Stockton",
@@ -3186,8 +3528,8 @@
     "role": "P-N"
   },
   {
-    "city": "\"Washington",
-    "state": " D.C. / Arlington County\"",
+    "city": "Washington",
+    "state": " D.C. / Arlington County",
     "faa": "VIRGINIA",
     "iata": "DCA",
     "icao": "DCA",
@@ -3195,8 +3537,26 @@
     "role": "Ronald Reagan Washington National Airport"
   },
   {
-    "city": "\"Washington",
-    "state": " D.C. / Dulles / Chantilly\"",
+    "city": "Washington D.C.",
+    "state": "Washington D.C.",
+    "faa": "VIRGINIA",
+    "iata": "IAD",
+    "icao": "IAD",
+    "name": "KIAD",
+    "role": "Washington Dulles International Airport"
+  },
+  {
+    "city": "Washington Dc",
+    "state": "Washington D.C.",
+    "faa": "VIRGINIA",
+    "iata": "IAD",
+    "icao": "IAD",
+    "name": "KIAD",
+    "role": "Washington Dulles International Airport"
+  },
+  {
+    "city": "Washington DC",
+    "state": "Washington D.C.",
     "faa": "VIRGINIA",
     "iata": "IAD",
     "icao": "IAD",
@@ -3285,7 +3645,16 @@
     "role": "P-N"
   },
   {
-    "city": "Wilkes-Barre / Scranton",
+    "city": "Scranton",
+    "state": "PENNSYLVANIA",
+    "faa": "AVP",
+    "iata": "AVP",
+    "icao": "KAVP",
+    "name": "Wilkes-Barre/Scranton International Airport",
+    "role": "P-N"
+  },
+  {
+    "city": "Wilkes-Barre",
     "state": "PENNSYLVANIA",
     "faa": "AVP",
     "iata": "AVP",
@@ -3366,7 +3735,16 @@
     "role": "P-N"
   },
   {
-    "city": "Youngstown / Warren",
+    "city": "Youngstown",
+    "state": "OHIO",
+    "faa": "YNG",
+    "iata": "YNG",
+    "icao": "KYNG",
+    "name": "Youngstown-Warren Regional Airport / Youngstown ARS",
+    "role": "P-N"
+  },
+  {
+    "city": "Warren",
     "state": "OHIO",
     "faa": "YNG",
     "iata": "YNG",
