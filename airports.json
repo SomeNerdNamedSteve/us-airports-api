@@ -3627,6 +3627,15 @@
     "role": "P-S"
   },
   {
+    "city": "Westchester",
+    "state": "NEW YORK",
+    "faa": "HPN",
+    "iata": "HPN",
+    "icao": "KHPN",
+    "name": "Westchester County Airport",
+    "role": "P-S"
+  },
+  {
     "city": "Wichita",
     "state": "KANSAS",
     "faa": "ICT",
