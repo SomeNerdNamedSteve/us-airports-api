@@ -1,0 +1,18 @@
+{
+  "name": "us-airport-api",
+  "version": "0.0.1",
+  "description": "Get Basic Airport Information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/us-airport-api.git"
+  },
+  "author": "SomeNerdNamedSteve",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
