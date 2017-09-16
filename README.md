@@ -1,4 +1,4 @@
-# H1
+# US Airports API
 ------
 
 The U.S. Airports API allows you to grab basic information about select airports in the United States
